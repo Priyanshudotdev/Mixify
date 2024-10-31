@@ -34,7 +34,7 @@ const Navbar = () => {
                         Build with <b>❤</b> By
                     </h1>
                     <h1 className="font-bold tracking-wide">
-                        Priyanshu Kayarkar
+                        Vaibhav Hatwar & Shlok Bhavik
                     </h1>
                 </div>
                 <div className="flex items-center gap-4">
